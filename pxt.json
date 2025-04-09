@@ -1,0 +1,38 @@
+{
+    "name": "pxt-vangogh-painter",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "bluetooth": "*",
+        "pxt-magicbit-pca9685": "github:microbit-cz/pxt-magicbit-pca9685#1e097c914b2c7ed1f4071d7b6288ef64812030e2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "vangogh.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.61",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj",
+    "yotta": {
+        "config": {
+            "microbit-dal": {
+                "bluetooth": {
+                    "open": 1,
+                    "whitelist": 0,
+                    "security_level": null
+                }
+            }
+        }
+    }
+}
