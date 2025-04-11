@@ -5,13 +5,12 @@
         "core": "*",
         "microphone": "*",
         "bluetooth": "*",
-        "pxt-magicbit-pca9685": "github:microbit-cz/pxt-magicbit-pca9685#1e097c914b2c7ed1f4071d7b6288ef64812030e2"
+        "pxt-vangogh-extension": "github:microbit-cz/pxt-vangogh-extension#1147f63f9f403d4e2d9e7ad3ce494bd075d3f7f3"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md",
-        "vangogh.ts"
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
