@@ -5,12 +5,12 @@
         "core": "*",
         "microphone": "*",
         "bluetooth": "*",
-        "pxt-vangogh-extension": "github:microbit-cz/pxt-vangogh-extension#1147f63f9f403d4e2d9e7ad3ce494bd075d3f7f3"
+        "pxt-vangogh-extension": "github:microbit-cz/pxt-vangogh-extension#1.0.0"
     },
     "files": [
-        "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "README.cs.md"
     ],
     "testFiles": [
         "test.ts"
