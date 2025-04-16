@@ -1,6 +1,14 @@
-# VanGogh Painter - MakeCode Project ([český překlad](./README.cs.md))
+# VanGogh Painter - MakeCode Project
 
-This repository contains the source code for a MakeCode project that is intended to be uploaded to a Micro:bit board, which controls the [VanGogh painter](https://github.com/microbit-cz/Vangogh-painter).
+------
+
+<p align="center">
+[![GPL3 license](https://img.shields.io/badge/license-%20GPL3%20license-red)](./LICENSE)
+[![english translation](https://img.shields.io/badge/language-en-blue)](./README.md)
+[![český překlad](https://img.shields.io/badge/language-cs-red)](./README.cs.md)
+</p>
+
+This repository contains the source code for a MakeCode project that is intended to be uploaded to a Micro:bit board, which controls the [VanGogh painter](https://github.com/microbit-cz/Vangogh-painter) through the VanGogh Painter web application.
 
 ## About the Project
 
