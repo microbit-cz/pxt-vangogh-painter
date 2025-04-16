@@ -1,12 +1,8 @@
 # VanGogh Painter - MakeCode projekt
 
-------
-
-<p align="center">
 [![GPL3 license](https://img.shields.io/badge/license-%20GPL3%20license-red)](./LICENSE)
 [![english translation](https://img.shields.io/badge/language-en-blue)](./README.md)
 [![český překlad](https://img.shields.io/badge/language-cs-red)](./README.cs.md)
-</p>
 
 Tento repozitář obsahuje zdrojový kód pro MakeCode projekt, který je určen k nahrání do desky Micro:bit, která řídí [VanGogh painter](https://github.com/microbit-cz/Vangogh-painter).
 
