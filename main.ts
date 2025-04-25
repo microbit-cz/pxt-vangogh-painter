@@ -24,8 +24,8 @@ function drawTurtle(cmds: number[][]) {
     bluetooth.uartWriteString("%dend")
 }
 let cmds: number[][] = [[3]]
-vanGogh.penDown()
 vanGogh.penUp()
+vanGogh.penDown()
 bluetooth.startUartService();
 console.log("started");
 
