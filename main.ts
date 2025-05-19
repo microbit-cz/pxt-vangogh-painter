@@ -1,4 +1,5 @@
 function drawTurtle(cmds: number[][]) {
+    vanGogh.penUp()
     bluetooth.uartWriteString("%dsta")
     console.log("drawing" + cmds)
     for (let i = 0; i < cmds.length; i++) {
